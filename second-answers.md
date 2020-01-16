@@ -11,4 +11,15 @@ remote: Resolving deltas: 100% (2/2), completed with 1 local object.
 To https://github.com/JohnGilbert57/die-class.git
    1e30367..f5739ec  master -> master
 
-3. 
+3. master
+
+4. * implement
+    master
+
+5. die.cc, first-answers.md, second-answers.md, README.md, die.h
+
+6. first-answers.md, second-answers.md, README.md, die.h
+
+7. no, die.cc in other branch
+
+8. 
