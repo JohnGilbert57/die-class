@@ -1,4 +1,6 @@
-1)
+Name: John Gilbert
+Lab: Tuesday git-lab
+1)error: failed to push some refs to https://github.com/JohnGilbert57/die-class.git
 2) Yes, it reported that there were unmerged files
 # On branch branch-b
 > # You have unmerged paths.
